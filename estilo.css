@@ -1,0 +1,11 @@
+*(
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+)
+body
+    backgroud:#e7b2b2;
+    font-family: ariel,helvetica,sans-serif;
+    display: flex;
+    justify-content: center;
+    
